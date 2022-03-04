@@ -2,7 +2,7 @@ using Cadastro_Series.src.Enum;
 
 namespace Cadastro_Series.src.Classes
 {
-    public class Serie : EntidadeBase
+    public class Filme : EntidadeBase
     {
         #region Attributes
         private Genero Genero { get; set; }
@@ -13,7 +13,7 @@ namespace Cadastro_Series.src.Classes
         #endregion
 
         #region Methods
-        public Serie(int id, Genero genero, string titulo, string descricao, int ano)
+        public Filme(int id, Genero genero, string titulo, string descricao, int ano)
         {
             this.Id = id;
             this.Genero = genero;
