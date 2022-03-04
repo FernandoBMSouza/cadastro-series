@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\ferna\\Documents\\Projetos\\Cadastro-Series\\Cadastro-Series.csproj": {}
+    "C:\\Users\\ferna\\Documents\\Projetos\\Cadastro-Series\\Cadastro-Series.csproj": {}
   },
   "projects": {
-    "c:\\Users\\ferna\\Documents\\Projetos\\Cadastro-Series\\Cadastro-Series.csproj": {
+    "C:\\Users\\ferna\\Documents\\Projetos\\Cadastro-Series\\Cadastro-Series.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\ferna\\Documents\\Projetos\\Cadastro-Series\\Cadastro-Series.csproj",
+        "projectUniqueName": "C:\\Users\\ferna\\Documents\\Projetos\\Cadastro-Series\\Cadastro-Series.csproj",
         "projectName": "Cadastro-Series",
-        "projectPath": "c:\\Users\\ferna\\Documents\\Projetos\\Cadastro-Series\\Cadastro-Series.csproj",
+        "projectPath": "C:\\Users\\ferna\\Documents\\Projetos\\Cadastro-Series\\Cadastro-Series.csproj",
         "packagesPath": "C:\\Users\\ferna\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\ferna\\Documents\\Projetos\\Cadastro-Series\\obj\\",
+        "outputPath": "C:\\Users\\ferna\\Documents\\Projetos\\Cadastro-Series\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ferna\\AppData\\Roaming\\NuGet\\NuGet.Config"
