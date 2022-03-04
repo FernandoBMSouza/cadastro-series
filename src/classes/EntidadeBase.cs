@@ -1,4 +1,4 @@
-namespace Cadastro_Series.src
+namespace Cadastro_Series.src.Classes
 {
     public abstract class EntidadeBase
     {

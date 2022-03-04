@@ -1,4 +1,6 @@
-namespace Cadastro_Series.src.classes
+using Cadastro_Series.src.Enum;
+
+namespace Cadastro_Series.src.Classes
 {
     public class Serie : EntidadeBase
     {

@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Cadastro_Series.src
+namespace Cadastro_Series.src.Classes
 {
     class Program
     {
